@@ -12,3 +12,4 @@ export default function Gallery({characters}:GalleryProps){
 
      } </div>
 }
+
