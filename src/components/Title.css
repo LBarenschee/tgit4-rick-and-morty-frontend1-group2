@@ -20,3 +20,12 @@ header{
     background-color: lightgrey;
     border-radius: 100%;
 }
+
+a{
+    color: #61dafb;
+    font-family: Verdana, sans-serif;
+}
+
+.body{
+    background-color: #3b3b41;
+}

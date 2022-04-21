@@ -5,4 +5,5 @@ export type Character = {
     gender: string
     origin: { name: string }
     image: string
+    episode: string[]
 }
